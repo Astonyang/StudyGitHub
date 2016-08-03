@@ -1,2 +1,2 @@
-Git is a version dddd control system.
+Git is a version iiiiii control system.
 Git is free software.
